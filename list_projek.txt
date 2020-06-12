@@ -1,0 +1,4 @@
+List Projek yang akan dibuat :
+-- Membuat aplikasi bangun datar sederhana
+-- Membuat aplikasi untuk menulis
+-- Membuat aplikasi sosial media
